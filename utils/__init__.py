@@ -1,0 +1,1 @@
+from .procesamiento import procesar_frame
